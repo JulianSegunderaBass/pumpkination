@@ -79,10 +79,10 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="PumpkinInfo.html"><i class="fas fa-book"></i> Read about Pumpkins<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="PumpkinInfo.php"><i class="fas fa-book"></i> Read about Pumpkins<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="PumpkinGallery.html"><i class="fas fa-image"></i> The Image Gallery<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="PumpkinGallery.php"><i class="fas fa-image"></i> The Image Gallery<span class="sr-only">(current)</span></a>
                     </li>
                 </ul>
             </div>
