@@ -96,8 +96,8 @@
                     <h1>Pumpkination</h1>
                     <h3>A website dedicated to Pumpkins and their cuteness</h3>
                     <hr>
-                    <a class="btn btn-primary" href="PumpkinInfo.html" role="button"><i class="fas fa-book"></i> Read about Pumpkins</a>
-                    <a class="btn btn-primary" href="PumpkinGallery.html" role="button"><i class="fas fa-image"></i> The Image Gallery</a>
+                    <a class="btn btn-primary" href="PumpkinInfo.php" role="button"><i class="fas fa-book"></i> Read about Pumpkins</a>
+                    <a class="btn btn-primary" href="PumpkinGallery.php" role="button"><i class="fas fa-image"></i> The Image Gallery</a>
                 </div>
             </div>
         </div>
