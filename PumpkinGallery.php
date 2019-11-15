@@ -87,7 +87,7 @@
 
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary">
         <div class="container">
-            <a class="navbar-brand" href="index.html"><i class="fas fa-home"></i> Pumpkination</a>
+            <a class="navbar-brand" href="index.php"><i class="fas fa-home"></i> Pumpkination</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
